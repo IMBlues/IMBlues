@@ -1,5 +1,5 @@
 ## Hi, I'm BŁues 👋
-
+Backend developer, working at [TencentBlueking](https://github.com/TencentBlueking).
 
 <details>
   <summary>Github Stats</summary>
