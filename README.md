@@ -1,4 +1,7 @@
 ## Hi, I'm BŁues 👋
+
+![Give me five](https://komarev.com/ghpvc/?username=IMBlues&style=flat&label=Give+Me+Five)
+
 Backend developer, working at [TencentBlueking](https://github.com/TencentBlueking).
 
 <details>
