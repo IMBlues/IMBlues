@@ -1,15 +1,7 @@
-## Hi, I'm BŁues 👋
+# Hello, I'm BŁues 👋 ![Give me five](https://komarev.com/ghpvc/?username=IMBlues&style=flat&label=Give+Me+Five)
 
-![Give me five](https://komarev.com/ghpvc/?username=IMBlues&style=flat&label=Give+Me+Five)
+我，布鲁斯鱼，一名普通的搬砖者。
 
-<details>
-  <summary>Github Stats</summary>
-  <br>
-<a href="https://github.com/IMBlues/IMBlues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMBlues&hide=javascript,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/IMBlues/IMBlues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IMBlues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="IMBlues' GitHub Stats" />
-</a>
-  
-</details>
+热爱电子游戏，偶尔唱唱歌打打球写写小说。
+
+你可以通过 [布鲁斯鱼的奇思妙想](https://emergencyexit.xyz/) 来进一步了解我。
