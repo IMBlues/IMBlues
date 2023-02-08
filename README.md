@@ -5,3 +5,8 @@
 我的爱好是 🎮 🎤 🏸 ⚽️ ✍️
 
 你可以通过 [布鲁斯鱼的妙想天开🗯](https://emergencyexit.xyz/) 来了解我
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/imblues/count.svg" />
+</p>
